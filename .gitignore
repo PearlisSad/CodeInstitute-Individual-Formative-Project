@@ -1,0 +1,45 @@
+# -----------------------
+# Data Science / Analytics
+# -----------------------
+
+# Keep raw data
+!data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# Ignore large generated files or temporary exports
+*.parquet
+*.feather
+*.zip
+*.gz
+*.pkl
+*.h5
+*.db
+
+# Visualisation and report outputs
+outputs/
+reports/
+exports/
+figures/
+plots/
+charts/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.html
+*.md
+
+# Notebook and cache files
+.ipynb_checkpoints/
+.matplotlib/
+.seaborn/
+plotly_temp/
+plotly_cache/
+
+# Environment & dependency caches
+.conda/
+.venv/
+.env

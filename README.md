@@ -64,14 +64,23 @@ LOAD
 
 ## Insights
 
-![Profit Margin by Product Category](Graphs/Profit_Margin_by_Product_Category.png)
-![Sales by Age Group](Graphs/Revenue_by_Age_Groups.png)
-![Revenue by Country](Graphs/Revenue_by_Country.png)
-![Revenue by Product Category](Graphs/Revenue_by_Product_Category.png)
-![Sales Count per Country](Graphs/Sales_Count_per_Country.png)
-![Sales Count per Month](Graphs/Sales_Count_per_Month.png)
-![Sales Count per Year](Graphs/Sales_Count_per_Year.png)
-![Top 50 Products by Quantity Sold](Graphs/Top_50_Products_by_Quantity_Sold.png)
+![Profit Margin by Product Category](Graphs/Profit%20Margin%20by%20Product%20Category.png)
+
+![Sales by Age Group](Graphs/Revenue%20by%20Age%20groups.png)
+
+![Revenue by Country](Graphs/Revenue%20by%20Country.png)
+
+![Revenue by Product Category](Graphs/Revenue%20by%20Product%20Category.png)
+
+![Sales Count per Country](Graphs/Sales%20Count%20per%20Country.png)
+
+![Sales Count per Month](Graphs/Sales%20Count%20per%20Month.png)
+
+![Sales Count per Year](Graphs/Sales%20Count%20per%20Year.png)
+
+![Top 50 Products by Quantity Sold](Graphs/Top%2050%20Products%20by%20Quantity%20Sold.png)
+
+
 
 
 

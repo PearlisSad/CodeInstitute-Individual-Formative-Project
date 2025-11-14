@@ -116,7 +116,13 @@ LOAD
 - This highlights which products may need to be restocked more often than others as they seem to have more demand that the other products.
 
 ## Conclusion
-
+- Bikes generate the most revenue in terms of products
+- Accessories provide the highest profit margin out of the product categories
+- Adults and Young Adults are the most valuable customers.
+- The United States and Australia provide the most revenue and individual sales.
+- late Spring and early Summer consistently provide the most sales over the year.
+- The products that sell the most are low cost accessories.
+- Profits can be maximised through consistenly selling accesories.
 
 ## Improvements that could be made
 Due to my inexperience with professinal Data Science practices, I am aware that there is still much more analysis to be done that could paint a clearer story within the dataset

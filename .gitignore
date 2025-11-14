@@ -30,7 +30,6 @@ charts/
 *.svg
 *.pdf
 *.html
-*.md
 
 # Notebook and cache files
 .ipynb_checkpoints/

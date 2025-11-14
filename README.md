@@ -3,6 +3,8 @@ Data set from: https://www.kaggle.com/datasets/serhatabuk/sales-data-csv
 # Code Institute Data Analysis and AI: Individual Formative Project
 
 This projects analyses dataset(found [here](https://www.kaggle.com/datasets/serhatabuk/sales-data-csv)) about a bike store based in Europe.
+My goal was to find insdight through data about which products sell the most, which customers to appeal to the most and have a good sense of
+which products to stock in order to generate the most profit.
 
 ## Setup
 - To Create Virtual Environment `python -m venv venv`
@@ -11,16 +13,10 @@ This projects analyses dataset(found [here](https://www.kaggle.com/datasets/serh
 
 ## Python Data Analysis/Visualisation Modules
  - **Numpy**:
-Allows for powerful numerical computing in Python
  - **pandas**:
-Library used for data manipulation and data analysis
  - **matplotlib**:
-Used for Data Visualisation
  - **plotly**:
-Interactive environment for writing and running code
  - **seaborn**:
-Interactive environment for writing and running code
- 
 
 ## User Story
 A friend who has is interested in opening a Bike Store as
@@ -49,4 +45,27 @@ He wants to get a head start and conduct research about how a as he is worried a
 | Profit             | int64     | Profit from the transaction                     |
 | Cost               | int64     | Total cost of the order                         |
 | Revenue            | int64     | Total revenue from the order                    |
+
+### ETL process
+
+EXTRACT
+- loaded dataset, "sales_data.csv".
+
+TRANSFORM
+- Checked for missing values.
+- Adjusted Date column into DateTime data type.
+- Created "Calculated_Cost" column.
+- Created "Calculated_Revenue" column.
+- Created "Season" column.
+- Created "Profit_Margin" column.
+
+LOAD
+- generated "clean_sales_data.csv".
+
+## Insights
+
+![Revenue by Product Category](graphs/Revenue_by_Product_Category.png)
+
+
+
 

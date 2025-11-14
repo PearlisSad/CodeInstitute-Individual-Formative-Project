@@ -65,20 +65,39 @@ LOAD
 ## Insights
 
 ![Profit Margin by Product Category](Graphs/Profit%20Margin%20by%20Product%20Category.png)
+- This tells us that 'Accessories' are the product category which has the most product margin.
+- While having a bike is obviously important in order to participate in the activity, accessories could be more important to have alongside.
 
 ![Sales by Age Group](Graphs/Revenue%20by%20Age%20groups.png)
+- This tells us that Adults and Young Adults are the majority of the people that purchasing from the store.
+- This implies that Adults and Young Adults are the customers we need to market to.
+- However, it is unsure whether this bike store is mostly online or not which could explain why the Seniors are not purchasing products.
 
 ![Revenue by Country](Graphs/Revenue%20by%20Country.png)
-
-![Revenue by Product Category](Graphs/Revenue%20by%20Product%20Category.png)
+- This tells us that the United States and Australia are the countries that most revenue is generated.
+- This could tell us that the environment in these countries may allow for bikes to be used effeciently.
+- This also highlights which countries may use the services of the bike store more.
 
 ![Sales Count per Country](Graphs/Sales%20Count%20per%20Country.png)
+- As expected from before, the United States and Australia are the top 2 countries that generate individual sales from the store.
+- However, the United States have a significant upperhand in terms of sales.
+
+![Revenue by Product Category](Graphs/Revenue%20by%20Product%20Category.png)
+- While it was found that Accessories have the most profit margin out of all product categories, Bikes generate the most revenue for the store.
 
 ![Sales Count per Month](Graphs/Sales%20Count%20per%20Month.png)
+- There is a trend found over the years of which months generate the most sales per month over a year.
+- There seems to have the most sales around the end of Spring and start of Summer, which is then followed by a decline in July.
+- This tells us it would be best to not restock around the months between July - October.
 
 ![Sales Count per Year](Graphs/Sales%20Count%20per%20Year.png)
+- This illustrated a significant increase in sales per year between 2012 and 2013.
+- This could be due to the store being more well known and therefor people are able to purchase products.
 
 ![Top 50 Products by Quantity Sold](Graphs/Top%2050%20Products%20by%20Quantity%20Sold.png)
+- This tells us the 50 most sold products.
+- There is a significant amount of Accessories and Clothing products.
+- This highlights which products may need to be restocked more often than others as they seem to have more demand that the other products.
 
 
 

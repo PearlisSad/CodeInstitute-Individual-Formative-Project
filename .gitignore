@@ -17,20 +17,6 @@ data/external/
 *.h5
 *.db
 
-# Visualisation and report outputs
-outputs/
-reports/
-exports/
-figures/
-plots/
-charts/
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.pdf
-*.html
-
 # Notebook and cache files
 .ipynb_checkpoints/
 .matplotlib/

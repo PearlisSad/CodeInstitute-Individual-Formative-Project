@@ -25,6 +25,11 @@ He wants to get a head start and conduct research about which products to keep i
 
 In order to assist him in the research, I have found a data set about bike store sales in Europe to see if there are particular trends and patterns to look out for in order to keep the business running and maximising the profits to be earned.
 
+## Project Goals
+- Understand the trend and patterns within a bike store over a year
+- Determine which products are sold the most
+- Find the most profitable products that are sold
+- Which customer demographic to market to
 
 ## Data Set
 | Column             | Data Type | Description                                      |
@@ -48,6 +53,10 @@ In order to assist him in the research, I have found a data set about bike store
 | Cost               | int64     | Total cost of the order                         |
 | Revenue            | int64     | Total revenue from the order                    |
 
+## Limitations
+- It is unsure whether these records are sales made physically or online.
+- The data set only has sales recorded from 2011 to 2016.
+
 ### ETL process
 
 EXTRACT
@@ -63,6 +72,11 @@ TRANSFORM
 
 LOAD
 - generated "clean_sales_data.csv".
+
+## Data Analysis
+- I have used matplotlib, seaborn and plotly in order to visualise patterns and trends that are found within the dataset.
+- pandas has been used for data manipulation in order to allow for further analysis.
+- Feature engineering is used 
 
 ## Insights
 
@@ -100,6 +114,17 @@ LOAD
 - This tells us the 50 most sold products.
 - There is a significant amount of Accessories and Clothing products.
 - This highlights which products may need to be restocked more often than others as they seem to have more demand that the other products.
+
+## Conclusion
+
+
+## Improvements that could be made
+Due to my inexperience with professinal Data Science practices, I am aware that there is still much more analysis to be done that could paint a clearer story within the dataset
+- Many products have sub-categories (e.g Clothes having X, M and S varieties). I could have renamed them into once singular product
+- I started off using Sales counts and then realised I should have using the Revenue metric 
+- Records could have been grouped into further categories which could allow for better data analysis.
+- As the dataset is only between 2011 and 2016, I could have found a better one or use another dataset alongside this one to compare.
+- The Graphs I used are quite limited and basic, I should have expanded and used boxplots, scatterplots, line graphs and etc. in order to have more variety and illustrate the date better.
 
 ### AI Usage
 I have used Generative AI to aid me in this project, however I have explicitly requested that it would only help me in debugging code and explanations and that it would NOT provide any help in gaining insights and analyse the dataset I have.

@@ -99,7 +99,8 @@ LOAD
 - There is a significant amount of Accessories and Clothing products.
 - This highlights which products may need to be restocked more often than others as they seem to have more demand that the other products.
 
-
+### AI Usage
+I have used Generative AI to aid me in this project, however I have explicitly requested that it would only help me in debugging code and explanations and that it would NOT provide any help in gaining insights and analyse the dataset I have.
 
 
 

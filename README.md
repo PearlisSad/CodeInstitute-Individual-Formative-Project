@@ -19,9 +19,11 @@ which products to stock in order to generate the most profit.
  - **seaborn**:
 
 ## User Story
-A friend who has is interested in opening a Bike Store as
+A friend who has is interested in taking over his father's bike store as his father has stated that he would want to retire in the next 5 years.
 
-He wants to get a head start and conduct research about how a as he is worried about struggling to become profitable due to his inexperience in running a business and lack of knowledge about the products that are associated with biking.
+He wants to get a head start and conduct research about which products to keep inventory of and how to prepare and study how these products are affected by the general demand.
+
+In order to assist him in the research, I have found a data set about bike store sales in Europe to see if there are particular trends and patterns to look out for in order to keep the business running and maximising the profits to be earned.
 
 
 ## Data Set

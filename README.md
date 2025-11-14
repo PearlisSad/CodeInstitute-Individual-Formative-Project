@@ -23,6 +23,11 @@ He wants to get a head start and conduct research about which products to keep i
 
 In order to assist him in the research, I have found a data set about bike store sales in Europe to see if there are particular trends and patterns to look out for in order to keep the business running and maximising the profits to be earned.
 
+### Target Audience
+The target audience for this project is for bike store owner or staff that are looking to find out information on how to manage inventory as they may face issues which looking out for the most profitable products or when to restock items,
+
+This project could also be benefitial for bike enthusiast who are interested in data analysis for realistic examples of industry practices within Data Science.
+
 ## Project Goals
 - Understand the trend and patterns within a bike store over a year
 - Determine which products are sold the most

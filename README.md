@@ -1,5 +1,3 @@
-Data set from: https://www.kaggle.com/datasets/serhatabuk/sales-data-csv
-
 # Code Institute Data Analysis and AI: Individual Formative Project
 
 This projects analyses dataset(found [here](https://www.kaggle.com/datasets/serhatabuk/sales-data-csv)) about a bike store based in Europe.
